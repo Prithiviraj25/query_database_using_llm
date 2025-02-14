@@ -63,7 +63,7 @@ query="List all students enrolled in the Computer Science department."
 app = FastAPI()
 
 # Load your local Llama 3.2 Q5 GGUF model
-llm = Llama(model_path="your_model_in_gguf_format", n_ctx=2048)
+llm = Llama(model_path="/Users/prithivi/Desktop/demo/my_models/llama-3.2-1b-q4_k_m.gguf", n_ctx=2048)
 
 # Function to extract SQL query using regex
 def extract_sql_query(text):
