@@ -37,6 +37,7 @@ This project leverages a local Llama 3.2 model to convert natural language queri
 - **Business Intelligence & Analytics**: Assists non-technical users in analyzing data.
 
 ## **OUTPUT ON POSTMAN**
+<img src="output.png">
 
 This project is a step towards making database interactions more accessible and intuitive for everyone. 🚀
 
