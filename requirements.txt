@@ -1,0 +1,4 @@
+llama-cpp-python
+sqlparse
+requests 
+sqlite3
